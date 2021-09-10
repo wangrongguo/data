@@ -1,6 +1,6 @@
 ## 古诗词数据
-- 唐诗
-- 宋词
+- 唐诗 300.js
+- 宋词 song300.js
 
 
 
@@ -19,8 +19,6 @@
 ```bash
 - git add *
 - git commit -m "描述"
-- git remote add origin https://github.com/wangrongguo/data.git
-- git branch -M main
 - git push -u origin main
 ```
 **标题1**
